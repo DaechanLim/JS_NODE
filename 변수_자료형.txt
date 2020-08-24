@@ -1,0 +1,7 @@
+string(문자열)
+number(숫자)
+boolean(T/F)
+object(객체)
+null
+undefined
+symbol
